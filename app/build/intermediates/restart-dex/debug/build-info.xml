@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xhdpi"
+    format="7"
+    timestamp="21621645701822"
+    token="-3426051852297993281" >
+
+    <task
+        name="javac"
+        duration="222" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="33" />
+    <task
+        name="verifier"
+        duration="12" />
+
+    <build timestamp="86422679668675" >
+        <artifact
+            location="C:\Users\iAugmentor\Downloads\CameraPhotoVideoUpload\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

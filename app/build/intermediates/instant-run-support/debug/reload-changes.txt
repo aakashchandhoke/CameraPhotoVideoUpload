@@ -1,0 +1,4 @@
+CHANGED,C:\Users\iAugmentor\Downloads\CameraPhotoVideoUpload\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\info\androidhive\camerafileupload\UploadActivity$UploadFileToServer$override.class
+CHANGED,C:\Users\iAugmentor\Downloads\CameraPhotoVideoUpload\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\info\androidhive\camerafileupload\UploadActivity$override.class
+CHANGED,C:\Users\iAugmentor\Downloads\CameraPhotoVideoUpload\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\info\androidhive\camerafileupload\UploadActivity$2$override.class
+CHANGED,C:\Users\iAugmentor\Downloads\CameraPhotoVideoUpload\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
